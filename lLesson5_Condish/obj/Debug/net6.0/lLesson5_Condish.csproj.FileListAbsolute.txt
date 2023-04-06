@@ -1,0 +1,15 @@
+C:\Users\ivank\LessonC#\lLesson5_Condish\obj\Debug\net6.0\lLesson5_Condish.csproj.AssemblyReference.cache
+C:\Users\ivank\LessonC#\lLesson5_Condish\obj\Debug\net6.0\lLesson5_Condish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\LessonC#\lLesson5_Condish\obj\Debug\net6.0\lLesson5_Condish.AssemblyInfoInputs.cache
+C:\Users\ivank\LessonC#\lLesson5_Condish\obj\Debug\net6.0\lLesson5_Condish.AssemblyInfo.cs
+C:\Users\ivank\LessonC#\lLesson5_Condish\obj\Debug\net6.0\lLesson5_Condish.csproj.CoreCompileInputs.cache
+C:\Users\ivank\LessonC#\lLesson5_Condish\bin\Debug\net6.0\lLesson5_Condish.exe
+C:\Users\ivank\LessonC#\lLesson5_Condish\bin\Debug\net6.0\lLesson5_Condish.deps.json
+C:\Users\ivank\LessonC#\lLesson5_Condish\bin\Debug\net6.0\lLesson5_Condish.runtimeconfig.json
+C:\Users\ivank\LessonC#\lLesson5_Condish\bin\Debug\net6.0\lLesson5_Condish.dll
+C:\Users\ivank\LessonC#\lLesson5_Condish\bin\Debug\net6.0\lLesson5_Condish.pdb
+C:\Users\ivank\LessonC#\lLesson5_Condish\obj\Debug\net6.0\lLesson5_Condish.dll
+C:\Users\ivank\LessonC#\lLesson5_Condish\obj\Debug\net6.0\refint\lLesson5_Condish.dll
+C:\Users\ivank\LessonC#\lLesson5_Condish\obj\Debug\net6.0\lLesson5_Condish.pdb
+C:\Users\ivank\LessonC#\lLesson5_Condish\obj\Debug\net6.0\lLesson5_Condish.genruntimeconfig.cache
+C:\Users\ivank\LessonC#\lLesson5_Condish\obj\Debug\net6.0\ref\lLesson5_Condish.dll
