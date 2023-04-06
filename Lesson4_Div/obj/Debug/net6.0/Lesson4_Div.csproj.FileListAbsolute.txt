@@ -1,0 +1,15 @@
+C:\Users\ivank\LessonC#\Lesson4_Div\bin\Debug\net6.0\Lesson4_Div.exe
+C:\Users\ivank\LessonC#\Lesson4_Div\bin\Debug\net6.0\Lesson4_Div.deps.json
+C:\Users\ivank\LessonC#\Lesson4_Div\bin\Debug\net6.0\Lesson4_Div.runtimeconfig.json
+C:\Users\ivank\LessonC#\Lesson4_Div\bin\Debug\net6.0\Lesson4_Div.dll
+C:\Users\ivank\LessonC#\Lesson4_Div\bin\Debug\net6.0\Lesson4_Div.pdb
+C:\Users\ivank\LessonC#\Lesson4_Div\obj\Debug\net6.0\Lesson4_Div.csproj.AssemblyReference.cache
+C:\Users\ivank\LessonC#\Lesson4_Div\obj\Debug\net6.0\Lesson4_Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\LessonC#\Lesson4_Div\obj\Debug\net6.0\Lesson4_Div.AssemblyInfoInputs.cache
+C:\Users\ivank\LessonC#\Lesson4_Div\obj\Debug\net6.0\Lesson4_Div.AssemblyInfo.cs
+C:\Users\ivank\LessonC#\Lesson4_Div\obj\Debug\net6.0\Lesson4_Div.csproj.CoreCompileInputs.cache
+C:\Users\ivank\LessonC#\Lesson4_Div\obj\Debug\net6.0\Lesson4_Div.dll
+C:\Users\ivank\LessonC#\Lesson4_Div\obj\Debug\net6.0\refint\Lesson4_Div.dll
+C:\Users\ivank\LessonC#\Lesson4_Div\obj\Debug\net6.0\Lesson4_Div.pdb
+C:\Users\ivank\LessonC#\Lesson4_Div\obj\Debug\net6.0\Lesson4_Div.genruntimeconfig.cache
+C:\Users\ivank\LessonC#\Lesson4_Div\obj\Debug\net6.0\ref\Lesson4_Div.dll
